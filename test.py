@@ -100,6 +100,7 @@ def main():
             imageio.imwrite(os.path.join(save_img_path, name), img)
 
     print("==================================================")
+    print("Hello, World!")
     print("===> Finished !")
 
 if __name__ == '__main__':
